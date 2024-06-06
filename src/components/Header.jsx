@@ -21,7 +21,7 @@ function Header() {
                             Home
                         </li>
                     </Link>
-                    <Link to={"/aboud"}>
+                    <Link to={"/about"}>
                         <li className="hidden pb-5 sm:inline text-slate-700 hover:underline">
                             About
                         </li>
